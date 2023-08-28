@@ -7,6 +7,5 @@
 Hi! Im Ahmad Faizulhakim. Im a web Developer and engineer. Still learn at IDN BS Bogor. Do you wanna collaborate with me?
 
 ### Social Media
-- LinkedIn :
-- Medium :
+- LinkedIn : https://www.linkedin.com/in/ahmad-faizulhakim-b932a7247/
 
