@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi! Im Ahmad Faizulhakim. Im a web Developer and engineer. Still learn at IDN BS Bogor. Do you wanna collaborate with me?
+Hi! Im Ahmad Faizulhakim. Im a junior software developer. A student from IDN BS Pamijahan Bogor. Do you wanna collaborate with me?
 
 ### Social Media
 - LinkedIn : https://www.linkedin.com/in/ahmad-faizulhakim-b932a7247/
