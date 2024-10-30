@@ -1,6 +1,4 @@
-### Hi! Im Faizulhakim. Let's check my projects!
-
-[![An image of @afaizulhakim's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/afaizulhakim)](https://holopin.io/@afaizulhakim)
+### 👋Hi! Im Faizul
 
 ### About Me
 
