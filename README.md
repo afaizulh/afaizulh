@@ -1,4 +1,4 @@
-<h1>👋Hi! Im Faizul </h1>
+<h1>👋Hi! Im Faiz </h1>
 
 ### About Me
 
