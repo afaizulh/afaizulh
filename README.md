@@ -1,4 +1,4 @@
-<h1>👋Im Alucia (Faiz) </h1>
+<h1>👋Im faizulhakim </h1>
 
 ### About Me
 
